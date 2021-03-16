@@ -1,0 +1,3 @@
+[09:56] Starting Crash 1.0.1 X5 game
+[09:56] Not enough balance
+[09:56] Stopping crash game

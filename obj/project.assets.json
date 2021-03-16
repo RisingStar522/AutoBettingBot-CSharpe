@@ -1,0 +1,206 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6.1": {
+      "Selenium.WebDriver/3.141.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Drawing"
+        ],
+        "compile": {
+          "lib/net45/WebDriver.dll": {}
+        },
+        "runtime": {
+          "lib/net45/WebDriver.dll": {}
+        }
+      },
+      "VMProtect.SDK/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net461/VMProtect.SDK.dll": {}
+        },
+        "runtime": {
+          "lib/net461/VMProtect.SDK.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win": {
+      "Selenium.WebDriver/3.141.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Drawing"
+        ],
+        "compile": {
+          "lib/net45/WebDriver.dll": {}
+        },
+        "runtime": {
+          "lib/net45/WebDriver.dll": {}
+        }
+      },
+      "VMProtect.SDK/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net461/VMProtect.SDK.dll": {}
+        },
+        "runtime": {
+          "lib/net461/VMProtect.SDK.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win-x64": {
+      "Selenium.WebDriver/3.141.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Drawing"
+        ],
+        "compile": {
+          "lib/net45/WebDriver.dll": {}
+        },
+        "runtime": {
+          "lib/net45/WebDriver.dll": {}
+        }
+      },
+      "VMProtect.SDK/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net461/VMProtect.SDK.dll": {}
+        },
+        "runtime": {
+          "lib/net461/VMProtect.SDK.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win-x86": {
+      "Selenium.WebDriver/3.141.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Drawing"
+        ],
+        "compile": {
+          "lib/net45/WebDriver.dll": {}
+        },
+        "runtime": {
+          "lib/net45/WebDriver.dll": {}
+        }
+      },
+      "VMProtect.SDK/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net461/VMProtect.SDK.dll": {}
+        },
+        "runtime": {
+          "lib/net461/VMProtect.SDK.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Selenium.WebDriver/3.141.0": {
+      "sha512": "wPqzXO3f79DzqauTZSzLMKiaBCN0Z2Mv7KvWP+hnV6EL88zh/pJJnFtdIR1X5wa3hsTOpF/bBJs45rz7kArsiA==",
+      "type": "package",
+      "path": "selenium.webdriver/3.141.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/WebDriver.dll",
+        "lib/net35/WebDriver.xml",
+        "lib/net40/WebDriver.dll",
+        "lib/net40/WebDriver.xml",
+        "lib/net45/WebDriver.dll",
+        "lib/net45/WebDriver.xml",
+        "lib/netstandard2.0/WebDriver.dll",
+        "lib/netstandard2.0/WebDriver.xml",
+        "selenium.webdriver.3.141.0.nupkg.sha512",
+        "selenium.webdriver.nuspec"
+      ]
+    },
+    "VMProtect.SDK/1.0.0": {
+      "sha512": "sy339gPQImvFV1LLeLP0vmV3onQzVzMNemTGkFRllq/ceKFyWhSewHs9sErCC1qWV4lJVvoYG4tk/71qqVugWg==",
+      "type": "package",
+      "path": "vmprotect.sdk/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net20/VMProtect.SDK.dll",
+        "lib/net35/VMProtect.SDK.dll",
+        "lib/net40/VMProtect.SDK.dll",
+        "lib/net45/VMProtect.SDK.dll",
+        "lib/net451/VMProtect.SDK.dll",
+        "lib/net452/VMProtect.SDK.dll",
+        "lib/net46/VMProtect.SDK.dll",
+        "lib/net461/VMProtect.SDK.dll",
+        "lib/net462/VMProtect.SDK.dll",
+        "lib/net47/VMProtect.SDK.dll",
+        "lib/net471/VMProtect.SDK.dll",
+        "lib/net472/VMProtect.SDK.dll",
+        "lib/net48/VMProtect.SDK.dll",
+        "vmprotect.sdk.1.0.0.nupkg.sha512",
+        "vmprotect.sdk.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6.1": [
+      "Selenium.WebDriver >= 3.141.0",
+      "VMProtect.SDK >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\monkey\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\WorkDirectory\\C#\\Bustabit-Crash 2021 v1.0.0\\Bustabit-Crash 2021 v1.0.0.csproj",
+      "projectName": "Bustabit-Crash 2021 v1.0.0",
+      "projectPath": "D:\\WorkDirectory\\C#\\Bustabit-Crash 2021 v1.0.0\\Bustabit-Crash 2021 v1.0.0.csproj",
+      "packagesPath": "C:\\Users\\monkey\\.nuget\\packages\\",
+      "outputPath": "D:\\WorkDirectory\\C#\\Bustabit-Crash 2021 v1.0.0\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\monkey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\SAP_SMP_SDK_3.0.config"
+      ],
+      "originalTargetFrameworks": [
+        "net461"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files (x86)\\SAP\\MobileSDK3\\NativeSDK\\ODataFramework\\Windows\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net461": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net461": {
+        "dependencies": {
+          "Selenium.WebDriver": {
+            "target": "Package",
+            "version": "[3.141.0, )"
+          },
+          "VMProtect.SDK": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

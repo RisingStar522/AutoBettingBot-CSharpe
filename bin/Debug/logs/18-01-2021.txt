@@ -1,0 +1,19 @@
+[00:47] Starting Crash x1.3 game
+[00:47] Not enough balance
+[00:47] Stopping crash game
+[01:56] Starting Crash 1.0.1 False game
+[01:56] Not enough balance
+[01:56] Stopping crash game
+[01:57] Starting Crash 1.0.1 False game
+[01:57] Not enough balance
+[01:57] Stopping crash game
+[02:02] Starting Crash 1.0.1 False game
+[02:02] Stopping crash game
+[02:02] Not enough balance
+[02:02] Stopping crash game
+[02:02] Starting Crash 1.0.1 False game
+[02:02] Not enough balance
+[02:02] Stopping crash game
+[02:16] Starting Crash 1.0.1 False game
+[02:16] Not enough balance
+[02:16] Stopping crash game

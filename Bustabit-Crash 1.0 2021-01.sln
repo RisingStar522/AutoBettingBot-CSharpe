@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1321
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bustabit-Crash 2021 v1.0.0", "Bustabit-Crash 2021 v1.0.0.csproj", "{016D068D-32BD-4641-939E-6799E9C217DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{016D068D-32BD-4641-939E-6799E9C217DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{016D068D-32BD-4641-939E-6799E9C217DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{016D068D-32BD-4641-939E-6799E9C217DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{016D068D-32BD-4641-939E-6799E9C217DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E15A0F3-37F7-4A5E-BBDA-E479E17CFCBD}
+	EndGlobalSection
+EndGlobal
